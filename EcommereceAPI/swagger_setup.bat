@@ -1,0 +1,1 @@
+sed -i 's/https:\/\/petstore.swagger.io\/v2\/swagger.json/\/swagger-config.yaml/g' ./node_modules/swagger-ui-dist/swagger-initializer.js
